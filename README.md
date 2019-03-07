@@ -1,5 +1,5 @@
 # 2019_Review
-This repository is a work in progress, intended to highlight the web development techniques I remember from my schooling, as well as demonstrate new techniques I am currently learning. 
+This repository is a work in progress, intended to highlight the web development technologies I remember from my schooling, as well as demonstrate new technologies I am currently learning. 
 
 # Skills I will demonstrate
 Languages:
