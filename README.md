@@ -21,7 +21,5 @@ JAVASCRIPT
 
 
 # Things I am endeavoring to learn
-Back-End Technologies:
-- MongoDB
-- SQL
-- NoSQL
+- Node.js
+- Python
